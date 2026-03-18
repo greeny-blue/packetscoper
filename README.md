@@ -34,7 +34,7 @@ This project is a precursor to an interactive data exploration/visualisation app
   - Toggle between light and dark themes  
 
 <img src="images/PacketScopeR screenshot.png">
-*PacketScopeR screenshot*
+<i>PacketScopeR screenshot</i>
 
 ---
 
