@@ -188,4 +188,6 @@ This tool is intended for use on networks you own or have explicit permission to
 
 ## Author
 
-Built as part of a hands-on exploration into network traffic analysis, Shiny app design and lightweight cybersecurity tooling.
+Built as part of a hands-on exploration into network traffic analysis, Shiny app design and lightweight cybersecurity tooling.  
+
+I have written other **R Shiny** apps which can be seen [here](https://github.com/greeny-blue/data-science-notes/tree/main/interactive-apps).
