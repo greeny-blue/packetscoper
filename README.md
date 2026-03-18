@@ -23,7 +23,6 @@ This project is a precursor to an interactive data exploration/visualisation app
   - Define local subnet dynamically  
 
 - Interactive visualisation  
-  - Horizontal bar charts
   - Clean hover tooltips  
   - Sort by value or frequency  
 
@@ -42,7 +41,7 @@ This project is a precursor to an interactive data exploration/visualisation app
 
 - Quick triage of network captures  
 - Identifying top talkers (IPs, ports, protocols)  
-- Inspecting internal vs external communication patterns  
+- Inspecting internal vs. external communication patterns  
 - Lightweight exploratory analysis before deeper investigation  
 
 ---
@@ -67,7 +66,7 @@ The app expects a CSV file derived from a PCAP file. At minimum, the following c
 - src_ip — Source IP address  
 - dst_ip — Destination IP address  
 
-Additional columns (e.g. ports, protocols) will automatically become selectable in the UI.
+Additional columns (e.g., ports, protocols) will automatically become selectable in the UI.
 
 Example (generated via tshark):
 
@@ -189,4 +188,4 @@ This tool is intended for use on networks you own or have explicit permission to
 
 ## Author
 
-Built as part of a hands-on exploration into network traffic analysis, Shiny app design, and lightweight cybersecurity tooling.
+Built as part of a hands-on exploration into network traffic analysis, Shiny app design and lightweight cybersecurity tooling.
